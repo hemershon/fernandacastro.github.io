@@ -104,7 +104,7 @@
   background-color: #ffffff;
   background-position: center center;
   background-repeat: no-repeat;
-  background-image: url(../images/preloader.gif);
+  background-image: url;
 }
 
 /*--------------------------------------------------*/
@@ -415,7 +415,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   left: 0;
 }
 .slider_area .slider_inner .camera_caption div h5 {
-  color: #e1c584;
+  color: #f6b60b;
   font: 400 24px "Roboto", sans-serif;
 }
 .slider_area .slider_inner .camera_caption div h3 {
@@ -435,7 +435,7 @@ a:focus, a:hover, .btn:focus, .btn:hover, button:focus, button:hover {
   font: 700 18px/59px "Roboto", sans-serif;
   width: 180px;
   text-align: center;
-  background: #e1c584;
+  background: #f6b60b;
   display: block;
   text-shadow: none;
   margin: 0 auto;
